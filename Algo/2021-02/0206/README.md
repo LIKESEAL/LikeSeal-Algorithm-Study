@@ -5,6 +5,7 @@
 
 - 심지영 : 공유기 설치 - https://www.acmicpc.net/problem/2110
 - 이세연 : 수들의 합2 - https://www.acmicpc.net/problem/2003
+- 박슬우 : 제곱수의 합 - https://www.acmicpc.net/problem/1699
 
 ### 심지영
 `난이도 : 실버 1`
@@ -20,3 +21,7 @@
 
 
 ### 박슬우
+`난이도 : 실버 3`
+- 문제 : 제곱수의 합 - https://www.acmicpc.net/problem/1699
+- 느낀점 : 코드는 정말 짧은데, 처음에 방향을 잘못잡고 계속 시간 초과가 나서 조금 힘들었다
+- 체감 난이도 : 힌트 보고 난 후에는 중하~정도
