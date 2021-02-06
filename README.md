@@ -15,13 +15,13 @@
 
 👍🏻 LINK
 
-- [2020-08 STUDY](https://github.com/Seulwoo/SSU_LikeSeal-Study-Group04/tree/master/Algo/2020-08)
-- [2020-09 STUDY](https://github.com/Seulwoo/SSU_LikeSeal-Study-Group04/tree/master/Algo/2020-09)
-- [2020-10 STUDY](https://github.com/Seulwoo/SSU_LikeSeal-Study-Group04/tree/master/Algo/2020-10)
-- [2020-11 STUDY](https://github.com/Seulwoo/SSU_LikeSeal-Study-Group04/tree/master/Algo/2020-11)
-- [2020-12 STUDY](https://github.com/Seulwoo/SSU_LikeSeal-Study-Group04/tree/master/Algo/2020-12)
-- [2021-01 STUDY](https://github.com/Seulwoo/SSU_LikeSeal-Study-Group04/tree/master/Algo/2021-01)
-- [2021-02 STUDY](https://github.com/Seulwoo/SSU_LikeSeal-Study-Group04/tree/master/Algo/2021-02)
+- [2020-08 STUDY](Algo/2020-08/)
+- [2020-09 STUDY](Algo/2020-09/)
+- [2020-10 STUDY](Algo/2020-10/)
+- [2020-11 STUDY](Algo/2020-11/)
+- [2020-12 STUDY](Algo/2020-12/)
+- [2021-01 STUDY](Algo/2021-01/)
+- [2021-02 STUDY](Algo/2021-02/)
 
 
 🌟 ANOTHER PROJECT
