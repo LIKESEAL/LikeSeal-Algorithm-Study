@@ -27,6 +27,6 @@
 🌟 ANOTHER PROJECT
 
 - [FAMILYGRAM](https://github.com/youn16/FamilyGram)
-- [ALIOJULIO](https://github.com/youn16/FamilyGram)
+- [ALIOJULIO](https://github.com/Jiyooung/ALIOJULIO)
 
 
