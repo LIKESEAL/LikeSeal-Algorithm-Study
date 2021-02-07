@@ -1,9 +1,13 @@
-#include <iostream>
-using namespace std;
+# baekjoon 2003 : 수들의 합2
+# solved by JY
+# DATE : 2021.02.05
 /*
 문제 그대로 구현하면 시간 초과가 난다.
 투 포인트 알고리즘을 사용
 */
+
+#include <iostream>
+using namespace std;
 int arr[10001];
 
 int main(){
