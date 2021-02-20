@@ -5,7 +5,7 @@
 
 - 이세연 : - 
 - 심지영 : 구간 합 구하기 4 - https://www.acmicpc.net/problem/11659
-- 박슬우 : - 
+- 박슬우 : 섬의 개수 - https://www.acmicpc.net/problem/4963
 
 
 ### 이세연
@@ -22,6 +22,6 @@
 
 ### 박슬우
 `난이도 : 실버 2`
-- 문제 : 
-- 느낀점 : 
-- 체감 난이도 : 
+- 문제 :섬의 개수 - https://www.acmicpc.net/problem/11659
+- 느낀점 : dfs 문제 (재귀가 dfs고 큐가 bfs 맞나??? 오우)
+- 체감 난이도 : 쉬움! 재귀에 break 조건을 안넣어줘서 한번 틀렸었다
