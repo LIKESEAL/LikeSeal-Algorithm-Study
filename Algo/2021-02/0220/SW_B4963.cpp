@@ -1,3 +1,10 @@
+# baekjoon 4963 : 섬의 개수
+# solved by SW
+# DATE : 2021.02.20
+# DFS 사용 (재귀)
+# check 함수 : 지도에서 육지의 개수를 세면서, 셀때마다 0으로 바꾸어주어 visit역할을 동시에 함
+# 너비 : w, 높이 : h, 너비 포인터 : j, 높이 포인터 : i
+
 #include <iostream>
 #define endl '\n'
 using namespace std;
